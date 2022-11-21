@@ -1,0 +1,14 @@
+/* #navbar{
+    grid-area: navbar;
+} */
+li{
+    display: grid;
+    padding: 3px;
+    text-decoration: none;
+    background-color: antiquewhite;
+    margin: 5px;
+    justify-content: space-between;
+ 
+    width: 50%;
+grid-column: 1 /span5;
+}
